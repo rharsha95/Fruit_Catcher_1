@@ -36,4 +36,6 @@ function setup() {
 function draw() {
   background(back_img);
 
+  // Add conditions for gameStates and playerCount
+
 }

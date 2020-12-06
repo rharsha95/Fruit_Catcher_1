@@ -55,7 +55,18 @@ class Game{
             players[index -1].x = x;
             players[index - 1].y = y;
 
+            // Differentiate the main player by printing
+            // the name of the player on the basket. 
+
         }
+
+
+        // Give movements for the players using arrow keys
+
+
+        // Create and spawn fruits randomly
+
+        
     }
 
     end(){
